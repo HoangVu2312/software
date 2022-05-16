@@ -1,4 +1,6 @@
 # software
+Vu Huy Hoang
+Student number: 2113057
 Software Development skills project
 Learning Diary is in the File uploaded
 This is the link to the deployed website using Vercel
